@@ -1,5 +1,7 @@
 {
-        "our_ads1_activation":"true",
+    "max_count_ads": "4",
+        
+    "our_ads1_activation":"true",
     "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/111.png",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
 
