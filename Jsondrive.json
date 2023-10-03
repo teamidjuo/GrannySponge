@@ -1,5 +1,5 @@
 {
-  "max_count_ads": "20",
+  "max_count_ads": "15",
 
   "our_ads1_activation":"false",
   "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/111.png",
@@ -14,7 +14,7 @@
   "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
 
   "admob_app_id": "ca-app-pub-5834141336216298~2305114113",
-  "admob_banner": "ca-app-pub-5834141336216298/7932845310",
+  "admob_banner": "",
   "admob_interstitial": "ca-app-pub-5834141336216298/3426624093",
 
   "unity_app_id": "5401411",
