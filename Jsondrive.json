@@ -13,6 +13,10 @@
   "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/444.png",
   "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.gta_craft_theft_auto_mod.v_mcpe_squad_gtav",
 
+  "our_ads_inter_activation":"false",
+  "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/333.png",
+  "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
+
   "admob_app_id": "ca-app-pub-5834141336216298~2305114113",
   "admob_banner": "ca-app-pub-5834141336216298/7932845310",
   "admob_interstitial": "ca-app-pub-5834141336216298/3426624093",
