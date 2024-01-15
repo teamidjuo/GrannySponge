@@ -5,9 +5,9 @@
   "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/pomnitwila.png",
   "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.talking.digital.horror.circus",
 
-  "our_ads2_activation":"false",
-  "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/pomnicon2.png",
-  "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.talking.digital.horror.circus",
+  "our_ads2_activation":"true",
+  "our_ads2_image_url":"https://github.com/teamIdjuo/GrannySponge/blob/main/barry3.png",
+  "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.oddy.escape.barry.prison.obby.Parkour",
 
   "our_ads3_activation":"true",
   "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/escapePrison.png",
