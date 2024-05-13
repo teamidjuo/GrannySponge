@@ -1,7 +1,7 @@
 {
   "max_count_ads": "15",
 
-  "our_ads1_activation":"true",
+  "our_ads1_activation":"false",
   "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/GrannyPolice1.png",
   "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.horrordev99.EscapePoliceGrannyPrison",
 
@@ -13,7 +13,7 @@
   "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/barry8.png",
   "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.ObbyPrison.EscapeBarry",
 
-  "our_ads_inter_activation":"true",
+  "our_ads_inter_activation":"false",
   "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/Grannypolice2.png",
   "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.horrordev99.EscapePoliceGrannyPrison",
 
