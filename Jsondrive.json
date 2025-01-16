@@ -2,8 +2,8 @@
   "max_count_ads": "15",
 
   "our_ads1_activation":"true",
-  "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/CraftAd01Forgranny.png",
-  "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.Block.Life.Building3Dcraft",
+  "our_ads1_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/Ads-11.png",
+  "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.Escape.ShinMonster.ObbyParkour",
 
   "our_ads2_activation":"true",
   "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/barbygranny.png",
@@ -14,8 +14,8 @@
   "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.ObbyPrison.EscapeBarry",
 
   "our_ads_inter_activation":"true",
-  "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/CraftAd-inter1920.png",
-  "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.Block.Life.Building3Dcraft",
+  "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/SonicAd-inter.png",
+  "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.Escape.ShinMonster.ObbyParkour",
 
   "admob_app_id": "ca-app-pub-5834141336216298~2305114113",
   "admob_banner": "ca-app-pub-5834141336216298/7932845310",
