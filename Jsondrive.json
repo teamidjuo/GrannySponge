@@ -21,7 +21,7 @@
   "admob_banner": "ca-app-pub-5834141336216298/7932845310",
   "admob_interstitial": "ca-app-pub-5834141336216298/3426624093",
 
-  "unity_app_id": "5401411",
+  "unity_app_id": "",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
 
@@ -30,3 +30,4 @@
   "appLovin_interstitial": "dca5f4121a8162a6"
   
 }
+
