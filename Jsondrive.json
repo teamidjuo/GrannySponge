@@ -2,20 +2,20 @@
   "max_count_ads": "15",
 
   "our_ads1_activation":"false",
-  "our_ads1_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/RatDance%20small%20inter%20AD.png",
-  "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.Rat.Dance.ParkourChallenge",
+  "our_ads1_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/GrannyPolice1.png",
+  "our_ads1_link_url":"https://www.playscare.com/police-granny",
 
   "our_ads2_activation":"false",
   "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/barbygranny.png",
   "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.barbieprincess.tonyboyandgirlprincess.barbiegranny",
 
   "our_ads3_activation":"false",
-  "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt5/main/barry8.png",
-  "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.ObbyPrison.EscapeBarry",
+  "our_ads3_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/adsPoliceGranny.png",
+  "our_ads3_link_url":"https://www.playscare.com/police-granny",
 
   "our_ads_inter_activation":"false",
-  "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/SonicAd-inter.png",
-  "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.Escape.ShinMonster.ObbyParkour",
+  "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/Grannypolice2.png",
+  "our_ads_inter_link_url":"https://www.playscare.com/police-granny",
 
   "admob_app_id": "ca-app-pub-5834141336216298~2305114113",
   "admob_banner": "ca-app-pub-5834141336216298/7932845310",
